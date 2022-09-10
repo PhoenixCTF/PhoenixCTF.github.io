@@ -2,8 +2,8 @@ title:              PhoenixCTF
 email:              hello@transtechtent.com
 description:        Trans Tech Tent X Silverphish
 author:             Trans Tech Tent
-baseurl:            "/PhoenixCTF"
-url:                "https://PhoenixCTF.github.io"
+baseurl:            ""
+url:                "https://phoenixctf.github.io"
 
 # Social Profiles
 twitter_username:   TransTechTent
