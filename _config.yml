@@ -1,0 +1,25 @@
+title:              PhoenixCTF
+email:              hello@transtechtent.com
+description:        The Phoenix CTF Project
+author:             Trans Tech Tent
+baseurl:            "/PhoenixCTF"
+url:                "https://PhoenixCTF.github.io"
+
+# Social Profiles
+twitter_username:   TransTechTent
+github_username:    TransTechTent
+facebook_username:  TransTechTent
+instagram_username:  TransTechTent
+linkedin_username:  TransTechTent
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
