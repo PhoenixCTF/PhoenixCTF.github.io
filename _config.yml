@@ -6,11 +6,11 @@ baseurl:            ""
 url:                "https://phoenixctf.github.io"
 
 # Social Profiles
-twitter_username:   TransTechTent
-github_username:    TransTechTent
+twitter_username:   TransCTF
+github_username:    Trans-Tech-Tent
 facebook_username:  TransTechTent
 instagram_username:  TransTechTent
-linkedin_username:  TransTechTent
+linkedin_username:  trans-tech-tent
 
 # Add your google-analytics ID here to activate google analytics
 # google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
